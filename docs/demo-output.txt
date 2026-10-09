@@ -1,0 +1,36 @@
+Step 1: Ada borrows 2 laptops
+Ada borrowed 2 units of Laptop. Available: 8.
+
+Step 2: John borrows 3 keyboards
+John borrowed 3 units of Keyboard. Available: 2.
+
+Step 3: Ada returns 1 laptop
+Ada returned 1 units of Laptop. Available: 9.
+
+Step 4: Grace requests 4 headsets
+Error: Not enough stock. Only 3 units available.
+Headsets available: 3
+
+Step 5: John tries to return 4 keyboards
+Error: You only have 3 units of Keyboard on loan.
+Keyboards available: 2
+
+Step 6: Search for LAPtop
+ID: R001 | Name: Laptop | Available: 9
+
+Step 7: Generate the report
+
+--- Campus Resource Report ---
+Total units: 18
+Available units: 14
+Units currently borrowed: 4
+
+Resources with fewer than 3 available units:
+Keyboard (R002): 2 available
+
+Most borrowed resource:
+Keyboard: 3 units currently borrowed
+
+Additional invalid-input test: Borrow zero laptops
+Error: Quantity must be a positive whole number.
+Laptops available: 9

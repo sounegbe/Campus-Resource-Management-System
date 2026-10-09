@@ -1,0 +1,14 @@
+test_empty_inventory_and_no_loans (test_campus.CampusTests.test_empty_inventory_and_no_loans) ... ok
+test_invalid_returns_preserve_state (test_campus.CampusTests.test_invalid_returns_preserve_state) ... ok
+test_inventory_validation (test_campus.CampusTests.test_inventory_validation) ... ok
+test_menu_invalid_input_and_exit (test_campus.CampusTests.test_menu_invalid_input_and_exit) ... ok
+test_rejected_borrowing_preserves_all_state (test_campus.CampusTests.test_rejected_borrowing_preserves_all_state) ... ok
+test_required_demo (test_campus.CampusTests.test_required_demo) ... ok
+test_return_across_multiple_loans (test_campus.CampusTests.test_return_across_multiple_loans) ... ok
+test_search_and_category (test_campus.CampusTests.test_search_and_category) ... ok
+test_tied_leaders (test_campus.CampusTests.test_tied_leaders) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK
